@@ -9,12 +9,12 @@ Bem-vindo ao repositório de documentação do projeto Glicodata. Este repositó
 
 O projeto Glicodata foi desenvolvido no âmbito do Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI), com financiamento do CNPq, e é conduzido pelo aluno Vitor Inacio Borges (Universidade Estadual de Ponta Grossa — UEPG).
 
-Objetivo principal
+#### Objetivo:
 
 - Produzir documentação clara e rastreável do projeto Glicodata.
 - Documentar decisões, reuniões e resultados que suportem o desenvolvimento da aplicação web para avaliação de risco de Diabetes Mellitus Tipo II.
 
-Por que este repositório existe
+#### Por que este repositório existe?
 
 - Centralizar anotações, atas de reunião e imagens relacionadas ao projeto.
 - Facilitar auditoria, comunicação entre colaboradores e replicação dos procedimentos adotados.
